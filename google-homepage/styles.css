@@ -1,0 +1,36 @@
+#googlelogo {
+    margin-left: 600px;
+    margin-top: 220px;
+    width: 400px;
+}
+.search{
+    margin-top: 10px;
+    margin-left: 630px;
+}
+.search input{
+    width: 310px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change the link color to #111 (black) on hover */
+  li a:hover {
+    background-color: grey;
+  }
